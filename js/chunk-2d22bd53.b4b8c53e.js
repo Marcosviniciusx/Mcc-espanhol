@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22bd53"],{f13e:function(n,e,u){"use strict";u.r(e);var c=function(){var n=this,e=n._self._c;return e("div",{},[n._v(" Sucursales ")])},s=[],a={name:"BranchOffices"},l=a,r=u("2877"),t=Object(r["a"])(l,c,s,!1,null,null,null);e["default"]=t.exports}}]);
-//# sourceMappingURL=chunk-2d22bd53.b4b8c53e.js.map
